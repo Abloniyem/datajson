@@ -1,0 +1,38 @@
+{
+  "friends": [
+    {
+      "name": "abebe wendosen",
+      "body": "Meet my friend, a quiet and dedicated individual who has a profound passion for coding. With a strong work ethic and an unwavering commitment to excellence, they embody the true spirit of a hard worker.\n\nSilent by nature, my friend possesses a serene demeanor that often belies him immense talent and determination. he find solace and joy in the world of coding, where his creativity and problem-solving skills shine through. Through the power of programming languages, he have discovered a means to express their ideas and bring him to life.\n\nHis love for coding runs deep, and he constantly seek to expand his knowledge and skills in the field. Whether it's learning new programming languages, exploring cutting-edge technologies, or delving into complex algorithms, my friend embraces each challenge with enthusiasm and an insatiable thirst for growth.\n\nWhat sets my friend apart is his unwavering commitment to his work. he possess a steadfast dedication that allows he to persevere through any obstacles he encounter. The combination of his silent determination and his genuine passion for coding fuels his journey towards constant improvement",
+      "email": "abebe@gmail.com",
+      "image": "",
+      "age": "23",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "name": "yohannes tesfay ",
+      "body": "a unique individual who finds solace and joy in the simple pleasures of life. Jo's love for sleeping, eating, and coding paints a fascinating picture of his introverted nature and his deep connection to his passions.\n\nFirst and foremost, Jo's affinity for sleeping is truly remarkable. he have an uncanny ability to find comfort and tranquility in the realm of slumber. Perhaps it is during these moments of respite that Jo's mind rejuvenates, allowing his to approach their coding endeavors with a fresh perspective and renewed energy.\n\nWhen it comes to eating, Jo's appreciation for food is a treat in itself. he take pleasure in savoring culinary delights, exploring new flavors, and finding delight in the simple act of nourishing their body. It is through these gastronomic experiences that Jo finds inspiration and satisfaction, which undoubtedly fuel his coding endeavors.\n\nCoding, however, is where Jo's true passion lies. As an introvert, they have discovered a world within the realm of programming that resonates deeply with his inner self. Coding provides them with a means of self-expression, a language through which he can articulate his ideas and bring them to life. It is in these moments of quiet introspection that Jo's creativity flourishes, allowing him to dive deep into the intricacies of code and find innovative solutions to complex problems.",
+      "email": "yohannestesfaye991@gmail.com",
+      "image": "",
+      "age": "22",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "name": "bela",
+      "body": "React Hydration is a term that you might have come across if you've been working with server-side rendering (SSR) in React. But what exactly does it mean?\n\nWell, in the simplest terms, React Hydration is the process of making a server-rendered React app fully interactive on the client side. It's like Spiderman's transformation from a regular high school student to a superhero, except in our case, the transformation is from static HTML to a dynamic, interactive web app.\n\nWhen a user requests a web page, the server sends the initial HTML render, which is just static HTML content. This is great for performance and SEO, but it's not interactive. That's where React Hydration comes in.\n\nReact Hydration takes this static HTML, which was initially rendered by the server, and attaches event listeners to make it fully interactive on the client side. It's like when Peter Parker puts on his Spiderman suit and suddenly, he's not just a regular guy - he's a superhero with superhuman abilities.",
+      "email": "bela@gmail.com",
+      "age": "98",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "name": "abel solomon ",
+      "body": "nnnnnnnnnnhgcrd",
+      "email": "abel@gmail.com",
+      "age": "12",
+      "gender": "male",
+      "id": 5
+    }
+  ]
+}
